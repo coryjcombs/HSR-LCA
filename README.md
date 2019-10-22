@@ -22,7 +22,7 @@ This repository includes all final materials used in the research to be presente
 
 * The [data](https://github.com/coryjcombs/HSR-LCA/tree/master/data) directory contains all data used in the model. All data are saved in CSV files for transparency and ease of user modification, pending release of new data or trials using other data sources.
   * The data include: energy supplies, trade distances, unit energy emissions, non-energy unit process emissions, unit process requirements, impact assessment conversion factors, and 30 selected trade schedules (considering the five selected cases for each of the six considered countries).
-  ** Data that will be updated automatically are marked as "NULL" for clarity; they do not require user input. (User input will not interfere with the model, but will simply be overwritten.)
+   * Data that will be updated automatically are marked as "NULL" for clarity; they do not require user input. (User input will not interfere with the model, but will simply be overwritten.)
   * All data are handled in the model as Pandas DataFrames and can be edited manually during model implementation if the user prefers not to edit an input dataset directly.
 
 * The [results](https://github.com/coryjcombs/HSR-LCA/tree/master/results) directory includes the output of the [HSRLCA_model](https://github.com/coryjcombs/HSR-LCA/blob/master/HSRLCA_model.ipynb) execution.
