@@ -31,4 +31,4 @@ This repository includes all final materials used in the research to be presente
 ## Updates
 This repository will be updated with the most current working data and model implementations as available.
 
-For updates, including new data sources, please open an issue or email me at [cory.j.combs@outlook.com](mailto:cory.j.combs@outlook.com).
+To contribute updates, including new data sources, please open an issue or email me at [cory.j.combs@outlook.com](mailto:cory.j.combs@outlook.com).
