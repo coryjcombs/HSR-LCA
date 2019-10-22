@@ -1,0 +1,16 @@
+﻿category,emission,conversion,equivalent
+global_warming_potential,CO2_kg,1,CO2
+global_warming_potential,N20_kg,265,CO2
+global_warming_potential,CH4_kg,25,CO2
+global_warming_potential,CFCs_kg,13900,CO2
+global_warming_potential,HCFCs_kg,1980,CO2
+global_warming_potential,CH3Br_kg,2,CO2
+air_acidification_potential,SO2_kg,1,SO2
+air_acidification_potential,SO3_kg,1,SO2
+air_acidification_potential,HCl_kg,0.88,SO2
+air_acidification_potential,HF_kg,1.6,SO2
+air_acidification_potential,NOx_kg,0.7,SO2
+air_acidification_potential,NH4_kg,0.89,SO2
+particulate_matter_potential,PM25_kg,1,PM25
+particulate_matter_potential,PM25-10_kg,1,PM25
+particulate_matter_potential,PM10_kg,1,PM25
